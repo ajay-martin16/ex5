@@ -60,7 +60,7 @@ function q4(){
 let headCount=0,tailCount=0;
 function q5(){
     const idx=Math.floor(Math.random() * 2);
-    const img=["https://i.postimg.cc/wv58jZNW/Head.png","https://i.postimg.cc/05f1RgPj/Tail.png"]    
+    const img=["tail.jpg","itail.jpg"]    
     if(idx==0)
         headCount+=1;
     else
