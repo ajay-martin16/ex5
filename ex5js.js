@@ -60,7 +60,7 @@ function q4(){
 let headCount=0,tailCount=0;
 function q5(){
     const idx=Math.floor(Math.random() * 2);
-    const img=["tail.jpg","itail.jpg"]    
+    const img=["https://cdn3.vectorstock.com/i/thumb-large/41/47/american-money-gold-coin-dollar-vector-924147.jpg","https://cdn3.vectorstock.com/i/thumb-large/65/32/russian-money-vector-626532.jpg"]    
     if(idx==0)
         headCount+=1;
     else
